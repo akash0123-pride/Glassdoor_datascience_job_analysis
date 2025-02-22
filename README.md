@@ -79,4 +79,6 @@ The dataset contains 956 job listings primarily related to Data Science roles fr
 ## Contact
 - Akash Pathak: akash.pathak0123@gmail.com
 - LinkedIn: [Akash Pathak](www.linkedin.com/in/akash-pathak-44a082212)
+- Medha Singh: medhasinghdav017@gmail.com
+- LinkedIn: https://www.linkedin.com/in/medha-singh-439a87212/
 
